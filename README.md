@@ -18,3 +18,4 @@ This Python script performs automatic text summarization using the Natural Langu
 
 Output:
 
+![Image](https://github.com/user-attachments/assets/b88185fb-4216-4011-91e4-c800c9de0ca3)
